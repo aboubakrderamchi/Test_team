@@ -7,7 +7,7 @@ public class Abuki {
 
 	System.out.println(5+5);	
 		
-		
+	 
 	}
 
 }

@@ -11,3 +11,6 @@ public class Abuki {
 	}
 
 }
+
+// This part is for Golam. Write a another class.
+

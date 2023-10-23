@@ -3,9 +3,9 @@ package bc;
 public class Abuki {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
 		
+
+	System.out.println(5+5);	
 		
 		
 	}
@@ -14,3 +14,7 @@ public class Abuki {
 
 // This part is for Golam. Write a another class.
 
+
+   
+
+    
